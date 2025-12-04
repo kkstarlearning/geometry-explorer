@@ -1,0 +1,5 @@
+{
+  "name": "幾何圖形探險家 (Geometry Explorer)",
+  "description": "A tailored interactive learning tool for Taiwan's 5th-grade math curriculum, focusing on calculating the area of parallelograms, triangles, and trapezoids with visual proofs and AI-powered practice problems.",
+  "requestFramePermissions": []
+}
